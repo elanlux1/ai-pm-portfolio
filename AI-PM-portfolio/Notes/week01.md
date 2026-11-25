@@ -15,14 +15,12 @@ Here are five clear, structured points refining your original takeaways—ready 
 
 
 
-# .env doe Lagfuse connection 
- LANGFUSE_SECRET_KEY="REDACTED"
- LANGFUSE_PUBLIC_KEY="REDACTED"
- LANGFUSE_BASE_URL="https://cloud.langfuse.com"
 
-Langfuse git repo:Install the Langfuse AI skill from github.com/langfuse/skills and use it to add tracing to this application with Langfuse following best practices. 
 
-# Pinecone for vector storing
-  API key: REDACTED
+  
 
-# Braintree for   
+
+
+
+
+  
